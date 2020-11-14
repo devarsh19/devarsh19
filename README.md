@@ -29,8 +29,14 @@
 
 ## &#x1f4c8; My Work
 <a href="https://github.com/devarsh19/devarsh19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devarsh19&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Devarsh's GitHub Stats" />
+</a>
+
+<a href="https://github.com/devarsh19/devarsh19">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devarsh19&repo=REST-API-using-express-mongo&show_icons=true&line_height=27 />
 </a>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
