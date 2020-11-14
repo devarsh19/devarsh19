@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**devarsh19/devarsh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**devarsh19/devarsh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -29,4 +29,4 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning GraphQL and Docker
--->
+
