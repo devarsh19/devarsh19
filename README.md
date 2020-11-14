@@ -31,7 +31,7 @@
 <a href="https://github.com/devarsh19/devarsh19">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devarsh19 />
 </a>
-[![Devarsh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devarsh19)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 - 🔭 I’m currently working on ...
