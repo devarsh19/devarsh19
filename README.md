@@ -36,7 +36,7 @@ I am a Software Developer who is passionate about solving business problems by d
 </a>
 
 ## &#x1f4c8; My Work
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devarsh19"/>
+<a href="https://github.com/devarsh19/devarsh19"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devarsh19"/></a>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devarsh19&repo=REST-API-using-express-mongo)](https://github.com/devarsh19/REST-API-using-express-mongo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devarsh19&repo=ecommerce-app-react)](https://github.com/devarsh19/ecommerce-app-react)
