@@ -29,7 +29,7 @@ I am a Software Developer who is passionate about solving business problems by d
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/devarsh19/devarsh19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarsh19&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarsh19&count_private=true&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/devarsh19/devarsh19">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devarsh19&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Devarsh's GitHub Stats" />
