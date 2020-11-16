@@ -1,9 +1,9 @@
-<a href="https://www.linkedin.com/in/devarsh19" target="_blank" rel="nofollow"><img align="right" alt="Devarsh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/devrssh_patel" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
+</a><a href="https://www.instagram.com/devrssh_patel" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.linkedin.com/in/devarsh19" target="_blank" rel="nofollow"><img align="right" alt="Devarsh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am a Software Developer who is passionate about solving business problems by developing software using modern JavaScript frameworks. Few tech that I enjoy working in are React.js, Node.js, TypeScript, PHP and React Native. I am actively looking for full-time opportunities in Software Development starting Fall 2021 across Canada.
+I am a Software Developer who is passionate about solving business problems by writing clean, optimised and error-free code using best industry prctice. Few tech that I enjoy working in are React.js, Node.js, TypeScript, PHP (Laravel), React Native, AWS and Firebase. I am actively looking for full-time opportunities in Software Development starting Fall 2021 across Canada.
 - 👨🏽‍💻 Enjoy making cool apps using React.js, Hooks, TypeScript and Redux.
 - 🌐 Visit my [porfolio website](http://devarshpatel.tk/) to see demo of my work
 - 🌱 I’m currently learning GraphQL and Docker
@@ -16,7 +16,7 @@ I am a Software Developer who is passionate about solving business problems by d
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
